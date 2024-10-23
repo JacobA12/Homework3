@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Wed Oct 23 02:13:15 2024
+[*]
+[dumpfile] "/home/jacoba/DigitalLogic/problem4/prob4_tb.vcd"
+[dumpfile_mtime] "Wed Oct 23 02:02:02 2024"
+[dumpfile_size] 456
+[savefile] "/home/jacoba/DigitalLogic/problem4/wave4.gtkw"
+[timestart] 0
+[size] 1146 600
+[pos] 423 32
+*-4.626154 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 214
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 152
+@28
+prob4_tb.out
+prob4_tb.x
+prob4_tb.y
+prob4_tb.z
+[pattern_trace] 1
+[pattern_trace] 0
