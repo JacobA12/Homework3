@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Thu Oct 24 04:18:01 2024
+[*]
+[dumpfile] "/home/libhead/Homework3/problem6/prob6_tb.vcd"
+[dumpfile_mtime] "Thu Oct 24 04:17:03 2024"
+[dumpfile_size] 596
+[savefile] "/home/libhead/Homework3/problem6/wave.gtkw"
+[timestart] 0
+[size] 2548 1047
+[pos] -600 -274
+*-5.617221 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 214
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 309
+@28
+prob6_tb.A
+prob6_tb.B
+prob6_tb.C
+prob6_tb.D
+prob6_tb.out
+[pattern_trace] 1
+[pattern_trace] 0
